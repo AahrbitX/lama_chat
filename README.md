@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Horizon ChatGPT AI Template](https://horizon-ui.com/chatgpt-ai-template) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20ChatGPT%20AI%20Template,%20the%20trendiest%20open%20source%20ChatGPT%20AI%20admin%20template%20for%20%23nextjs%20and%20%23react!%0A%0Ahttps%3A//horizon-ui.com/chatgpt-ai-template/%20%20)
 
 ![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
@@ -95,3 +96,7 @@ Connect with the community! Feel free to ask questions, report issues, and meet 
 ⭐️ [Copyright 2023 Horizon UI ](https://www.horizon-ui.com/?ref=readme-horizon-ai-template-free)
 
 📄 [Horizon UI License](https://horizon-ui.notion.site/End-User-License-Agreement-8fb09441ea8c4c08b60c37996195a6d5)
+=======
+# lama_chat
+chatbot for everyone
+>>>>>>> 01608d697129b8e4464afecf81a30482a1d9b787
